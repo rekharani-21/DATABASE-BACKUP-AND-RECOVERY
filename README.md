@@ -26,3 +26,5 @@ As part of the internship deliverables, I submitted both the SQL backup script (
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f7ba0e51-974b-458a-958b-0f9ebc2144b9)
+
